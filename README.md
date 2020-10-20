@@ -1,0 +1,2 @@
+# lokus
+Stronka na pokaz
