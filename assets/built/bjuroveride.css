@@ -1,0 +1,12 @@
+body {
+	background-color: RGB(46 35 20);
+}
+
+nav.site-nav {
+	padding-top: 8px;
+	font-size: 1.8rem;
+}
+
+.nav li a {
+	color: black;
+}
